@@ -35,7 +35,7 @@ feature_list <- readRDS("path/to/feature_selection/final_protein_list.rds")
 
 # Define continuous and categorical feature sets
 continuous_features <- c(feature_list) 
-categorical_features <- c()  
+categorical_features <- c()  # Define categorical features if needed
 
 # Ensure proper column naming
 trainingSet <- trainingSet %>%
