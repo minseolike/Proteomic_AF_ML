@@ -11,3 +11,5 @@ Depicted is an overview of training and testing of Pro-AF, a random forest-based
 2. Feature Selection – Selecting relevant features from nearly 3,000 proteins.
 3. Machine Learning Model Training – Training and validating the model on the UKB dataset using the selected features.
 4. Model Application – Applying the trained model to the holdout set for evaluation.
+
+Proteomic data should undergo adequate quality control (QC) and imputation prior to being input into the pipeline, with each researcher handling these steps at their discretion.
