@@ -1,6 +1,6 @@
 # Proteomic_AF_ML
 
-This repository provides machine learning code used for a project "A Machine Learning-Based Plasma Protein Risk Score Improves Atrial Fibrillation Prediction Over Clinical and Genomic Models" 
+This repository provides machine learning code used in a project "A Machine Learning-Based Plasma Protein Risk Score Improves Atrial Fibrillation Prediction Over Clinical and Genomic Models" 
 
 ![image](https://github.com/user-attachments/assets/516278d4-8500-464a-8b0a-3f7a65724bf3)
 
