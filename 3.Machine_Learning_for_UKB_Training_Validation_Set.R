@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # Machine Learning for UKB (Training/Validation Set) Based on Selected Features
 
 # Load necessary libraries
@@ -111,3 +113,4 @@ for (h in 1:100) {
 
 # Cleanup
 stopCluster(cl)
+
