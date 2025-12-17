@@ -13,3 +13,6 @@ Depicted is an overview of training and testing of Pro-AF, a random forest-based
 4. Model Application – Applying the trained model to the holdout set for evaluation.
 
 Proteomic data should undergo adequate quality control (QC) and imputation prior to being input into the pipeline, with each researcher handling these steps at their discretion.
+
+# SPDX-License-Identifier: GPL-3.0-or-later
+
