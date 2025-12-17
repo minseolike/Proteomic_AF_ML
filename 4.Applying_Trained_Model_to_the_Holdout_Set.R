@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # Machine Learning for Hold-Out Set (Final Model)
 
 # Load necessary libraries
@@ -97,3 +99,4 @@ for (h in 1:100) {
 
 # Cleanup
 stopCluster(cl)
+
