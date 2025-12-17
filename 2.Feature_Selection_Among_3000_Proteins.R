@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # Feature Selection (Among 3000 Proteins)
 
 # Load necessary libraries
@@ -98,3 +100,4 @@ frequent_features <- feature_counts %>% filter(n >= 20) %>% select(feature)
 # Save final feature list
 feature_list <- as.character(frequent_features$feature)
 saveRDS(feature_list, "path/to/feature_selection/final_protein_list.rds")
+
