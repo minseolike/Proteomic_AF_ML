@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # Split Cohort into Training/Validation and Holdout Sets
 
 # Load necessary library
@@ -33,4 +35,5 @@ saveRDS(trainingSet, "path/to/training_validation_set.rds")
 saveRDS(validationSet, "path/to/holdout_set.rds")
 
 cat("\nDatasets successfully saved.\n")
+
 
